@@ -1,0 +1,9 @@
+#blog {
+    background-color: rgb(66, 171, 243);
+    margin-top: 4vw;
+    padding: 3vw;
+}
+
+.card {
+    box-shadow: 32px 18px 9px -8px rgba(0, 0, 0, 0.74);
+}
