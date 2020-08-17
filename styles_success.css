@@ -98,8 +98,13 @@ span>img {
 
 .h2_stories {
     text-align: center;
+    color: green;
 }
 
 .success_image img {
     width: 100%;
+}
+
+.h_success  {
+    text-align:center;
 }
